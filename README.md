@@ -1,4 +1,4 @@
-![logo](https://github.com/parasjeevan/parasjeevan/blob/main/git.jpg)
+![logo](https://github.com/parasjeevan/parasjeevan/blob/main/logo.jpg)
 
 <h1 align="center">Hi 👋, I'm Paras Jeevan</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
