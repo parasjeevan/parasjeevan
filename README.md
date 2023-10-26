@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Paras Jeevan</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
+<img align="right" alt="coding" width="400" src="https://blog.drumup.io/wp-content/uploads/2018/02/source.gif">
 
-<img align="right" alt="coding" width="400" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasjeevan&label=Profile%20views&color=0e75b6&style=flat" alt="parasjeevan" /> </p>
 
@@ -32,7 +32,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parasjeevan&show_icons=true&locale=en" alt="parasjeevan" />
 </p>
+<img align="right" alt="coding" width="400" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parasjeevan&" alt="parasjeevan" />
 </p>
+
 
