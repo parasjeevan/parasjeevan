@@ -28,9 +28,9 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parasjeevan&show_icons=true&locale=en&layout=compact" alt="parasjeevan" /></p>
-
+<img align="right" alt="coding" width="400" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parasjeevan&show_icons=true&locale=en" alt="parasjeevan" />
-</p><img align="middle" alt="coding" width="400" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif">
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parasjeevan&" alt="parasjeevan" />
 </p>
 
