@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Paras Jeevan</h1>
+<h1 align="center">Hi 👋, I'm Paras </h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://blog.drumup.io/wp-content/uploads/2018/02/source.gif">
 
